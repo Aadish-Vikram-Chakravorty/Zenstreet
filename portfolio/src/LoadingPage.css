@@ -1,0 +1,27 @@
+/* src/LoadingPage.css */
+.loading-page {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #002f61; /* Dark blue background */
+    color: #fff; /* White text */
+    font-family: Arial, sans-serif;
+  }
+  
+  .logo img {
+    width: 80px;
+    margin-bottom: 20px;
+  }
+  
+  h1 {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+  }
+  
+  p {
+    font-size: 1.2rem;
+    margin: 0;
+  }
+  
